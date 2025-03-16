@@ -4,7 +4,7 @@
   </h1>
 </center>
 
-Regarder [Projet IA Groupe 1.ipynb](/Projet IA Groupe 1.ipynb).
+Regarder [Projet IA Groupe 1.ipynb](/Projet%20IA%20Groupe%201.ipynb).
 
 Projet en collaboration avec : 
 - Romain HEMART <[RomainHermart](https://github.com/orgs/CESI-ORLEANS-A2/people/RomainHemart)>
